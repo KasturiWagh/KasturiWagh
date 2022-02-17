@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=KasturiWagh&theme=radical)](https://github.com/KasturiWagh/github-readme-stats)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=KasturiWagh&include_all_commits=true&theme=radical)](https://github.com/KasturiWagh/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasturiWagh&layout=compact&theme=radical)](https://github.com/KasturiWagh/github-readme-stats)
